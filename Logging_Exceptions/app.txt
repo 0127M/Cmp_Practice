@@ -1,0 +1,9 @@
+INFO:root:A new request came
+ERROR:root:invalid literal for int() with base 10: 'C:/Python/Python39/python.exe "d:/Python programs/topic wise program/Logging_Exceptions/logging_exc.py"'
+Traceback (most recent call last):
+  File "d:\Python programs\topic wise program\Logging_Exceptions\logging_exc.py", line 66, in <module>
+    x = int(input('enter number : '))
+ValueError: invalid literal for int() with base 10: 'C:/Python/Python39/python.exe "d:/Python programs/topic wise program/Logging_Exceptions/logging_exc.py"'
+INFO:root:Process will completed
+INFO:root:A new request came
+INFO:root:Process will completed

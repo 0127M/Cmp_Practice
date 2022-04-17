@@ -1,0 +1,7 @@
+INFO:root:A new request came
+ERROR:root:division by zero
+Traceback (most recent call last):
+  File "d:\Python programs\topic wise program\Logging_Exceptions\logging_exc.py", line 68, in <module>
+    print(x/y)
+ZeroDivisionError: division by zero
+INFO:root:Process will completed
